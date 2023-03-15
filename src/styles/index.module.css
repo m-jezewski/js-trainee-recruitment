@@ -1,6 +1,7 @@
 .wrapper {
-    position: relative;
-    max-width: 1440px;
-    margin: 0 auto;
-    padding: 1.5rem 3rem 5rem 3rem;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 3rem 3rem 6rem 3rem;
 }

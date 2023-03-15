@@ -1,0 +1,32 @@
+.menuContainer{
+    box-sizing: border-box;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    min-width: 19.5rem;
+}
+
+.menuContainer h3 {
+    padding: 1.5rem;
+    padding-bottom: 1rem;
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+}
+
+.menuItem{
+    display: block;
+    padding: 1rem 3rem;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+    color: #71717A;
+    transition: all 150ms ease-out;
+}
+.menuItem:hover {
+    background-color: #FAFAFA;
+    color: #F97316;
+}

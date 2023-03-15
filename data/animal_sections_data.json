@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Polar Bear",
+        "subtitle": "Say hello to your new friend",
+        "highlited": "friend",
+        "imgSrc": "/polar_bear.png",
+        "imgAlt": "Polar Bear"
+    },
+    {
+        "title": "Cheetah",
+        "subtitle": "No petting before eating",
+        "highlited": "eating",
+        "imgSrc": "/cheetah.png",
+        "imgAlt": "Cheetah"
+    },
+    {
+        "title": "Panda",
+        "subtitle": "Eating always with pleasure",
+        "highlited": "pleasure",
+        "imgSrc": "/panda.png",
+        "imgAlt": "Panda"
+    },
+    {
+        "title": "Fox",
+        "subtitle": "Sometimes quite suspicious",
+        "highlited": "suspicious",
+        "imgSrc": "/fox.png",
+        "imgAlt": "Fox"
+    },
+    {
+        "title": "Squirrel",
+        "subtitle": "Staying curious",
+        "highlited": "curious",
+        "imgSrc": "/squirrel.png",
+        "imgAlt": "Squirrel"
+    },
+    {
+        "title": "Butterfly",
+        "subtitle": "Majestic every time of a day",
+        "highlited": "Majestic",
+        "imgSrc": "/butterfly.png",
+        "imgAlt": "Butterfly"
+    },
+    {
+        "title": "Elephant",
+        "subtitle": "It makes a huge difference",
+        "highlited": "huge",
+        "imgSrc": "/elephant.png",
+        "imgAlt": "Elephant"
+    }
+]

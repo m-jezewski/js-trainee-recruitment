@@ -1,0 +1,39 @@
+.sectionWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.sectionWrapper h2 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.05em;
+    color: #71717A
+}
+
+.sectionWrapper h3 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.03em;
+    color: #181818;
+    margin-top: 0.5rem;
+}
+
+.themeTextColor{
+    color: #F2994A;
+}
+
+.imgWrapper{
+    position: relative;
+    aspect-ratio: 1.9;
+}
+
+@media screen and (min-width: 1024px) {
+    .sectionWrapper h3{
+        font-size: 40px;
+    }
+}

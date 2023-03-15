@@ -1,0 +1,7 @@
+.listConatiner{
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25rem;
+    gap: 4rem
+}
